@@ -26,8 +26,12 @@ This repository contains the CAD, Arduino firmware, and circuit design to build 
 
 *Note: If you don't want to order a PCB, you can also build the circuit on a prototyping board yourself! Schematics in the same folder.*
 
+TODO
+
 ## Build Instructions
 
 1. Print all 3d-printed parts in any color/material. I used PLA, 30% infill, 0.2mm layer height.
 2. Order PCB, or obtain a prototype board. (I won't go through circuit wiring instructions, check the PCB schematic in `./pcb`.)
 2. Solder all components on the PCB
+
+TODO
